@@ -7,7 +7,7 @@
 		Name: <input type="text" name="name" id="name">
 <button>Submit</button>
 	</form>
-
+Thank u for adding me
 </body>
 </html>
 
