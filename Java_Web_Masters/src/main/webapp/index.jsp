@@ -8,7 +8,8 @@
 <button>Submit</button>
 	</form>
 Thank u for adding me
-Thank u for Comming
+Thank u for Comming..
+
 </body>
 </html>
 
