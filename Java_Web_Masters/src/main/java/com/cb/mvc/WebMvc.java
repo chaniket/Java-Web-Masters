@@ -12,9 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 public class WebMvc {
 	@RequestMapping("/helloWebMvc")
 	public ModelAndView helloWebMvc(HttpServletRequest request, HttpServletResponse response) {
-
-		return new ModelAndView("welcomePage", "welcomeMessage", "Hii Aniket");
-
+		String name = request.getParameter("name");
+		return new ModelAndView("welcomePage", "welcomeMessage", "Hii " + name);
 	}
-
 }
