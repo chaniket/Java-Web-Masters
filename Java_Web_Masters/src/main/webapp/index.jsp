@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
-<link rel="icon" href="images/download.jpg">
+<link rel="icon" href="images/setup.ico">
 <title> Java Web Masters</title>
 </head>
 <body>
